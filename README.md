@@ -7,7 +7,6 @@ _Comprehensive README_
 
 **ZEBRA** provides a zero‑annotation pipeline for constructing large‑scale **preference datasets** for LLM alignment **without any per‑instance labeling**.  
 It binarizes response pairs by leveraging **model‑behavior knowledge**—public benchmark scores—instead of human or GPT‑4 judgments.  
-All details are described in the accompanying EMNLP‑2025 paper.
 
 ---
 
